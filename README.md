@@ -1,16 +1,16 @@
-### Hi there 👋
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJpMXg3ZGo2ODF3NWRzb3drOTFmcnlsbTJ6aXFqa2puczNzNWZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icUEIrjnUuFCWDxFpU/giphy.gif)
 
-<!--
-**yassiralamidev/yassiralamidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there 👋**
+<br>
+**I'm Yassir, a front-end developer.**
+<br>
 
-Here are some ideas to get you started:
+* 📫 : yassiralamidev@gmail.com
+<br>
+* Where you can find me 👀 :
+  * Linkedin: [Yassir EL ALAMI](https://www.linkedin.com/in/yassir-elalami/)
+  * Twitter: [@yassiralamidev](https://twitter.com/yassiralamidev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+---
+[![](https://visitcount.itsvg.in/api?id=yassiralamidev&icon=5&color=1)](https://visitcount.itsvg.in)
