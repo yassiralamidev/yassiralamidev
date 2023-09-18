@@ -6,7 +6,6 @@
 <br>
 
 * 📫 : yassiralamidev@gmail.com
-<br>
 * Where you can find me 👀 :
   * Linkedin: [Yassir EL ALAMI](https://www.linkedin.com/in/yassir-elalami/)
   * Twitter: [@yassiralamidev](https://twitter.com/yassiralamidev)
