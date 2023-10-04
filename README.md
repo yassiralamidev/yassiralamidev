@@ -1,8 +1,9 @@
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJpMXg3ZGo2ODF3NWRzb3drOTFmcnlsbTJ6aXFqa2puczNzNWZ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icUEIrjnUuFCWDxFpU/giphy.gif)
+###
 
-**Hi there 👋**
-<br>
-**I'm Yassir, a front-end developer.**
+<h1 align="center">Hey there, I'm Yassir El Alami .</h1>
+
+###
+
 <br>
 
 * 📫 : yassiralamidev@gmail.com
