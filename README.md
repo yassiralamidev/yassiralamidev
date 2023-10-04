@@ -1,8 +1,12 @@
 ###
 <h1 align="center">Hey there, I'm Yassir El Alami .</h1>
-###
+<div align="center">
+[![Linkedin:Yassir El Alami](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassir-elalami/)]
+[![Twitter:yassiralamidev](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/yassiralamidev])
+<img src="https://komarev.com/ghpvc/?username=yassiralamidev&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
+</p>
 
-<br>
+<!--<br>
 
 * 📫 : yassiralamidev@gmail.com
 * Where you can find me 👀 :
@@ -10,5 +14,5 @@
   * Twitter: [@yassiralamidev](https://twitter.com/yassiralamidev)
 
     
----
-[![](https://visitcount.itsvg.in/api?id=yassiralamidev&icon=5&color=1)](https://visitcount.itsvg.in)
+-->
+
