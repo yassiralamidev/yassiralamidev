@@ -12,6 +12,13 @@
 
 <!--<br>
 
+
+### Get in touch ⚡
+- 📧 co.yacouri@gmail.com
+- 🦉 Sometimes i post news on my Twitter account [@ZYacouri](https://twitter.com/ZYacouri).
+- 📝 I write Articles and Stories about my routine, coding, design etc ...[Yacouri's blog](https://yacouri.com/)
+- 🌐 If you want to know more about me here is [My Website](https://yacouri.com)
+
 * 📫 : yassiralamidev@gmail.com
 * Where you can find me 👀 :
   * Linkedin: [Yassir EL ALAMI](https://www.linkedin.com/in/yassir-elalami/)
