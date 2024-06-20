@@ -4,7 +4,6 @@
 <!--  <a href='href="https://linkedin.com/in/yassir-elalami" target="_blank"'>
   <img src='https://img.shields.io/badge/Yassir_Elalami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
  </a> -->
-  ![image](https://github.com/yassiralamidev/yassiralamidev/assets/97433575/135870b6-c651-4edf-abf4-2607c8f82532)
 
 
  <img src="https://komarev.com/ghpvc/?username=yassiralamidev&label=Profile%20views&color=0e75b6&style=plastic" alt="Views" width="110px" /> 
