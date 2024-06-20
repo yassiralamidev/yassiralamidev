@@ -1,9 +1,9 @@
 ###
-<h1 align="center">Hey there, I'm Yassir El Alami .</h1>
-<div align="center">
- <a href='href="https://linkedin.com/in/yassir-elalami" target="_blank"'>
+<h1>Hey there, I'm Yassir El Alami .</h1>
+<div>
+<!--  <a href='href="https://linkedin.com/in/yassir-elalami" target="_blank"'>
   <img src='https://img.shields.io/badge/Yassir_Elalami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
- </a>
+ </a> -->
  <img src="https://komarev.com/ghpvc/?username=yassiralamidev&label=Profile%20views&color=0e75b6&style=plastic" alt="Views" width="110px" /> 
 </div>
 
