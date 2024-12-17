@@ -1,6 +1,6 @@
 ###
 <h3>Hello, I'm Yassir El Alami 👋</h3>
-<p>I'm 21-year-old Software developer passionate about Web Developement, Programming, Computers ...</p>
+<p>I'm  Software developer passionate about Web Developement, Programming, Computers ...</p>
 <div>
 <!--  <a href='href="https://linkedin.com/in/yassir-elalami" target="_blank"'>
   <img src='https://img.shields.io/badge/Yassir_Elalami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
@@ -9,6 +9,17 @@
 
  <img src="https://komarev.com/ghpvc/?username=yassiralamidev&label=Profile%20views&color=0e75b6&style=plastic" alt="Views" width="110px" /> 
 </div>
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yassiralamidev?pet-id=656776229966958908"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--<br>
 
